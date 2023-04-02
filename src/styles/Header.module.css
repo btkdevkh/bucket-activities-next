@@ -1,0 +1,29 @@
+.navbar {
+  background-color: #324769;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+  padding: 0.5rem;
+}
+.navbar div {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.navbar div img {
+  width: 40px;
+  height: 40px;
+}
+.navbar div h1 {
+  font-weight: 500;
+  font-size: 1.6rem;
+}
+
+.navbar nav ul li a {
+  text-decoration: none;
+  color: #fff;
+  background-color: #4d6c9e;
+  padding: 0.4rem 0.8rem;
+  border-radius: 0.3rem;
+}

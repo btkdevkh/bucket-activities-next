@@ -1,0 +1,20 @@
+.login {
+  text-align: center;
+}
+.login .container {
+  width: 320px;
+  margin: 0.5rem auto;
+  background-color: #3475d6;
+  padding: 1.5rem;
+  border-radius: 0.3rem;
+}
+.h2 {
+  color: #fff;
+  margin-bottom: 1rem;
+}
+.input {
+  width: 100%;
+  margin-bottom: 0.5rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}
